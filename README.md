@@ -4,5 +4,8 @@
 
 ## How to use
 
-> Run setup.py to install libs
-''' python setup.py
+Run setup.py to install pyexiftool
+
+'''
+python setup.py
+'''

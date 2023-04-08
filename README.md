@@ -1,6 +1,5 @@
 # 999clear
-
-> Clears the metadata of any file
+Clears the metadata of any file
 
 ## How to use
 

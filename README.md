@@ -6,6 +6,6 @@
 
 Run setup.py to install pyexiftool
 
-'''
-python setup.py
-'''
+```
+ python setup.py
+```

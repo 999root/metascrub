@@ -1,4 +1,4 @@
-# 999clear
+# 999root's Metascrub tool
 Clears the metadata of any file
 
 ## How to use
